@@ -72,7 +72,7 @@ def main():
 					timeHold += timeDelta
 					# Setting startTimeStamp to newTimeStamp, so time.time() resets
 					startTimeStamp = newTimeStamp
-					print("BAD HABIT DETECTED" , timeHold)
+					print("BAD HABIT DETECTED")
 					
 				else:
 					# Print error if something else is detected
@@ -80,7 +80,7 @@ def main():
 
 			# Resets startTimeStamp if phone is not detected
 			if phoneDetected == False:
-				lastTimeStamp = time.time()
+				startTimeStamp = time.time()
 
 	# CTRL+C to stop the program and print statistics
 	except KeyboardInterrupt:

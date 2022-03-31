@@ -100,7 +100,7 @@ Examples of possible outputs
 
 
 ## SCALABILITY / EXTENDING THE PROGRAM
-`Bad Habit Detector` is really scalable program. Program is re-trained ssd-mobibenet DNN. With currently one class in it. Other bad habits can be added to the program to get more useful data out of your time on computer or pretty much anywhere in that matter. Data coming out of the program could be used to monitor your behaviour in given days and times. I have decided to let the user decide how to utilize the data. Personally I use the data to monitor how well I can get rid of these bad habits. 
+`Bad Habit Detector` is really scalable program. Program is re-trained ssd-mobilenet DNN. With currently one class in it. Other bad habits can be added to the program to get more useful data out of your time on computer or pretty much anywhere in that matter. Data coming out of the program could be used to monitor your behaviour in given days and times. I have decided to let the user decide how to utilize the data. Personally I use the data to monitor how well I can get rid of these bad habits. 
 
 
 ## DATA COLLECTION
